@@ -1,0 +1,561 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdftex 2020.12.28)  28 OCT 2021 21:00
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**modelsAndMethods.tex
+(./modelsAndMethods.tex
+./modelsAndMethods.tex:1: Undefined control sequence.
+l.1 \chapter
+            {Ê®°ÂûãÂíå‰ªãÁªçÊñπÊ≥ï}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no û in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no í in font cmr10!
+Missing character: There is no å in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no Á in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no ç in font cmr10!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no ñ in font cmr10!
+Missing character: There is no π in font cmr10!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no ï in font cmr10!
+./modelsAndMethods.tex:2: Undefined control sequence.
+l.2 \section
+            {ÊµÅ‰Ωì-ÊµÅ‰ΩìËÄ¶ÂêàÊ®°Âûã}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no Ë in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no ê in font cmr10!
+Missing character: There is no à in font cmr10!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no û in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no à in font cmr10!
+Missing character: There is no ë in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no ¨ in font cmr10!
+Missing character: There is no Ë in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no Ë in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ë in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no Á in font cmr10!
+Missing character: There is no ï in font cmr10!
+Missing character: There is no å in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no å in font cmr10!
+Missing character: There is no ∫ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no ü in font cmr10!
+Missing character: There is no ü in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no ä in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no Ö in font cmr10!
+Missing character: There is no ∑ in font cmr10!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no ë in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no ä in font cmr10!
+Missing character: There is no õ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no û in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no Á in font cmr10!
+Missing character: There is no ï in font cmr10!
+Missing character: There is no å in font cmr10!
+Missing character: There is no È in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ¢ in font cmr10!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no ∂ in font cmr10!
+Missing character: There is no Á in font cmr10!
+Missing character: There is no ö in font cmr10!
+Missing character: There is no Ñ in font cmr10!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no ∑ in font cmr10!
+Missing character: There is no ∑ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no ê in font cmr10!
+Missing character: There is no à in font cmr10!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no ñ in font cmr10!
+Missing character: There is no π in font cmr10!
+Missing character: There is no Á in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no Ë in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no Ë in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ë in font cmr10!
+Missing character: There is no Á in font cmr10!
+Missing character: There is no ö in font cmr10!
+Missing character: There is no Ñ in font cmr10!
+Missing character: There is no È in font cmr10!
+Missing character: There is no ó in font cmr10!
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no È in font cmr10!
+Missing character: There is no ¢ in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no Á in font cmr10!
+Missing character: There is no ö in font cmr10!
+Missing character: There is no Ñ in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+Missing character: There is no ê in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no å in font cmr10!
+Missing character: There is no ∫ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no ü in font cmr10!
+Missing character: There is no ü in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no í in font cmr10!
+Missing character: There is no å in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no ä in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no à in font cmr10!
+Missing character: There is no Ü in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no à in font cmr10!
+Missing character: There is no ´ in font cmr10!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no Ø in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no ç in font cmr10!
+Missing character: There is no ï in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no Á in font cmr10!
+Missing character: There is no ö in font cmr10!
+Missing character: There is no Ñ in font cmr10!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no Ë in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no Ë in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ë in font cmr10!
+Missing character: There is no Á in font cmr10!
+Missing character: There is no ö in font cmr10!
+Missing character: There is no Ñ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no å in font cmr10!
+Missing character: There is no ∫ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no ü in font cmr10!
+Missing character: There is no ü in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no è in font cmr10!
+Missing character: There is no Ø in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no • in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no à in font cmr10!
+Missing character: There is no Ü in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no ∫ in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+Missing character: There is no ê in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no å in font cmr10!
+Missing character: There is no ∫ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no ü in font cmr10!
+Missing character: There is no ü in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no Ö in font cmr10!
+Missing character: There is no ∂ in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no Ø in font cmr10!
+./modelsAndMethods.tex:7: Undefined control sequence.
+l.7 \begin
+          {subequations}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./modelsAndMethods.tex:8: Undefined control sequence.
+l.8 	\begin
+           {align}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./modelsAndMethods.tex:9: Undefined control sequence.
+l.9 	 \frac
+           {\partial \mathbf{u}_i}{\partial t} + (\mathbf{u}_i\cdot\nabla)\m...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./modelsAndMethods.tex:9: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \partial 
+l.9 	 \frac{\partial
+                     \mathbf{u}_i}{\partial t} + (\mathbf{u}_i\cdot\nabla)\m...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./modelsAndMethods.tex:9: Undefined control sequence.
+l.9 	 \frac{\partial \mathbf
+                            {u}_i}{\partial t} + (\mathbf{u}_i\cdot\nabla)\m...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./modelsAndMethods.tex:9: Extra }, or forgotten $.
+l.9 	 \frac{\partial \mathbf{u}_i}
+                                  {\partial t} + (\mathbf{u}_i\cdot\nabla)\m...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./modelsAndMethods.tex:9: Undefined control sequence.
+l.9 ...artial \mathbf{u}_i}{\partial t} + (\mathbf
+                                                  {u}_i\cdot\nabla)\mathbf{u...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./modelsAndMethods.tex:9: Undefined control sequence.
+l.9 ...rtial t} + (\mathbf{u}_i\cdot\nabla)\mathbf
+                                                  {u}_i -\nabla \cdot(\nu_{i...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./modelsAndMethods.tex:9: Undefined control sequence.
+l.9 ...bf{u}_i -\nabla \cdot(\nu_{i}\nabla \mathbf
+                                                  {u}_{i} - p_i \mathbb{I}) ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./modelsAndMethods.tex:9: Undefined control sequence.
+l.9 ...(\nu_{i}\nabla \mathbf{u}_{i} - p_i \mathbb
+                                                  {I}) &= \mathbf{f}_i,~~ &&...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./modelsAndMethods.tex:9: Misplaced alignment tab character &.
+l.9 ...i}\nabla \mathbf{u}_{i} - p_i \mathbb{I}) &
+                                                  = \mathbf{f}_i,~~ &&\text{...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./modelsAndMethods.tex:9: Undefined control sequence.
+l.9 ...\mathbf{u}_{i} - p_i \mathbb{I}) &= \mathbf
+                                                  {f}_i,~~ &&\text{in}~\Omeg...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./modelsAndMethods.tex:9: Misplaced alignment tab character &.
+l.9 ..._{i} - p_i \mathbb{I}) &= \mathbf{f}_i,~~ &
+                                                  &\text{in}~\Omega_i, \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./modelsAndMethods.tex:9: Misplaced alignment tab character &.
+l.9 ...{i} - p_i \mathbb{I}) &= \mathbf{f}_i,~~ &&
+                                                  \text{in}~\Omega_i, \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./modelsAndMethods.tex:9: Undefined control sequence.
+l.9 ... p_i \mathbb{I}) &= \mathbf{f}_i,~~ &&\text
+                                                  {in}~\Omega_i, \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Runaway argument?
+ \nabla \cdot \mathbf {u}_i &= 0,~~ &&\text {in} ~\Omega _i, \\ ((\nu \ETC.
+./modelsAndMethods.tex:17: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.17 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+./modelsAndMethods.tex:17: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.17 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./modelsAndMethods.tex:18: Undefined control sequence.
+l.18 \section
+             {ÂºÇÊÄßHelmholtzÊñπÁ®ã}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no Â in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ß in font cmr10!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no ñ in font cmr10!
+Missing character: There is no π in font cmr10!
+Missing character: There is no Á in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no ã in font cmr10!
+./modelsAndMethods.tex:19: Undefined control sequence.
+l.19 \section
+             {Âå∫ÂüüÂàÜËß£ÊñπÊ≥ï‰ªãÁªç}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no Â in font cmr10!
+Missing character: There is no å in font cmr10!
+Missing character: There is no ∫ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no ü in font cmr10!
+Missing character: There is no ü in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no à in font cmr10!
+Missing character: There is no Ü in font cmr10!
+Missing character: There is no Ë in font cmr10!
+Missing character: There is no ß in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no ñ in font cmr10!
+Missing character: There is no π in font cmr10!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no ï in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no Á in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no ç in font cmr10!
+./modelsAndMethods.tex:20: Undefined control sequence.
+l.20 \section
+             {Ê∑±Â∫¶Â≠¶‰π†ÊñπÊ≥ï‰ªãÁªç}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no ∑ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no ∫ in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no π in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no ñ in font cmr10!
+Missing character: There is no π in font cmr10!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no ï in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no Á in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no ç in font cmr10!
+./modelsAndMethods.tex:21: Undefined control sequence.
+l.21 \section
+             {Ê∑±Â∫¶Âå∫ÂüüÂàÜËß£ÊñπÊ≥ï‰ªãÁªç}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no ∑ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no ∫ in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no å in font cmr10!
+Missing character: There is no ∫ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no ü in font cmr10!
+Missing character: There is no ü in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no à in font cmr10!
+Missing character: There is no Ü in font cmr10!
+Missing character: There is no Ë in font cmr10!
+Missing character: There is no ß in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no ñ in font cmr10!
+Missing character: There is no π in font cmr10!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no ï in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no Á in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no ç in font cmr10!
+)
+! Emergency stop.
+<*> modelsAndMethods.tex
+                        
+*** (job aborted, no legal \end found)
+
+!  ==> Fatal error occurred, no output PDF file produced!

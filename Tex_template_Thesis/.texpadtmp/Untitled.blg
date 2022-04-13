@@ -1,0 +1,151 @@
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: /Users/apple/Documents/毕业/Tex_Thesis/.texpadtmp/Untitled.aux
+The style file: plain.bst
+Database file #1: ../ref_backup.bib
+Repeated entry---line 296 of file ../ref_backup.bib
+ : @article{raissi2019physics
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 405 of file ../ref_backup.bib
+ : @article{kingma2014adam
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 455 of file ../ref_backup.bib
+ : @incollection{lecun2012efficient
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 464 of file ../ref_backup.bib
+ : @article{kiwiel2001convergence
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 475 of file ../ref_backup.bib
+ : @incollection{bottou-98x
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 709 of file ../ref_backup.bib
+ : @article{berenger1994perfectly
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 755 of file ../ref_backup.bib
+ : @article{kiwiel2001convergence
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 766 of file ../ref_backup.bib
+ : @incollection{bottou-98x
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 778 of file ../ref_backup.bib
+ : @incollection{lecun2012efficient
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 794 of file ../ref_backup.bib
+ : @article{wang2020neural
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 822 of file ../ref_backup.bib
+ : @article{raissi2019physics
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 832 of file ../ref_backup.bib
+ : @article{ernst2012difficult
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 841 of file ../ref_backup.bib
+ : @article{gander2019class
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 852 of file ../ref_backup.bib
+ : @incollection{gander2013domain
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 861 of file ../ref_backup.bib
+ : @article{engquist2011sweeping2
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 872 of file ../ref_backup.bib
+ : @article{engquist2011sweeping
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 883 of file ../ref_backup.bib
+ : @article{chen2013source2
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 894 of file ../ref_backup.bib
+ : @article{chen2013source
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 905 of file ../ref_backup.bib
+ : @article{farhat2005feti
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 916 of file ../ref_backup.bib
+ : @inproceedings{farhat1999feti
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 925 of file ../ref_backup.bib
+ : @article{chen2016robust
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 936 of file ../ref_backup.bib
+ : @article{benamou1997domain
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 947 of file ../ref_backup.bib
+ : @article{gander2007optimized
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 958 of file ../ref_backup.bib
+ : @article{gander2002optimized
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 977 of file ../ref_backup.bib
+ : @phdthesis{melenk1995generalized
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1092 of file ../ref_backup.bib
+ : @article{gander2006optimized
+ :                             ,
+I'm skipping whatever remains of this entry
+You've used 42 entries,
+            2118 wiz_defined-function locations,
+            757 strings with 11436 characters,
+and the built_in function-call counts, 13723 in all, are:
+= -- 1413
+> -- 544
+< -- 10
++ -- 225
+- -- 171
+* -- 955
+:= -- 2276
+add.period$ -- 132
+call.type$ -- 42
+change.case$ -- 206
+chr.to.int$ -- 0
+cite$ -- 42
+duplicate$ -- 519
+empty$ -- 1112
+format.name$ -- 171
+if$ -- 2857
+int.to.chr$ -- 0
+int.to.str$ -- 42
+missing$ -- 45
+newline$ -- 214
+num.names$ -- 86
+pop$ -- 184
+preamble$ -- 1
+purify$ -- 169
+quote$ -- 0
+skip$ -- 359
+stack$ -- 0
+substring$ -- 1025
+swap$ -- 89
+text.length$ -- 10
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 158
+warning$ -- 0
+while$ -- 153
+width$ -- 44
+write$ -- 469
+(There were 26 error messages)

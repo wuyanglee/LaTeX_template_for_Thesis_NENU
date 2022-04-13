@@ -1,0 +1,258 @@
+\begin{thebibliography}{10}
+
+\bibitem{abgrall2001computations}
+Remi Abgrall and Smadar Karni.
+\newblock Computations of compressible multifluids.
+\newblock {\em Journal of Computational Physics}, 169(2):594--623, 2001.
+
+\bibitem{benamou1997domain}
+Jean-David Benamou and Bruno Despr{\`e}s.
+\newblock A domain decomposition method for the {H}elmholtz equation and
+  related optimal control problems.
+\newblock {\em Journal of Computational Physics}, 136(1):68--82, 1997.
+
+\bibitem{berenger1994perfectly}
+Jean-Pierre Berenger.
+\newblock A perfectly matched layer for the absorption of electromagnetic
+  waves.
+\newblock {\em Journal of Computational Physics}, 114(2):185--200, 1994.
+
+\bibitem{blayo2016towards}
+Eric Blayo, David Cherel, and Antoine Rousseau.
+\newblock Towards optimized {S}chwarz methods for the {N}avier--{S}tokes
+  equations.
+\newblock {\em Journal of Scientific Computing}, 66(1):275--295, 2016.
+
+\bibitem{bottou-98x}
+L\'{e}on Bottou.
+\newblock Online algorithms and stochastic approximations.
+\newblock In David Saad, editor, {\em Online Learning and Neural Networks}.
+  Cambridge University Press, Cambridge, UK, 1998.
+\newblock revised, oct 2012.
+
+\bibitem{brezzi2012mixed}
+Franco Brezzi and Michel Fortin.
+\newblock {\em Mixed and hybrid finite element methods}, volume~15.
+\newblock Springer Science \& Business Media, 2012.
+
+\bibitem{chen2016robust}
+Wenbin Chen, Yongxiang Liu, and Xuejun Xu.
+\newblock A robust domain decomposition method for the {H}elmholtz equation
+  with high wave number.
+\newblock {\em ESAIM: Mathematical Modelling and Numerical Analysis},
+  50(3):921--944, 2016.
+
+\bibitem{chen2013source}
+Zhiming Chen and Xueshuang Xiang.
+\newblock A source transfer domain decomposition method for {H}elmholtz
+  equations in unbounded domain.
+\newblock {\em SIAM Journal on Numerical Analysis}, 51(4):2331--2356, 2013.
+
+\bibitem{chen2013source2}
+Zhiming Chen and Xueshuang Xiang.
+\newblock A source transfer domain decomposition method for {H}elmholtz
+  equations in unbounded domain {P}art {II}: {E}xtensions.
+\newblock {\em Numer. Math. Theory Methods Appl}, 6(3):538--555, 2013.
+
+\bibitem{engquist2011sweeping2}
+Bj{\"o}rn Engquist and Lexing Ying.
+\newblock Sweeping preconditioner for the {H}elmholtz equation: hierarchical
+  matrix representation.
+\newblock {\em Communications on Pure and Applied Mathematics}, 64(5):697--735,
+  2011.
+
+\bibitem{engquist2011sweeping}
+Bj{\"o}rn Engquist and Lexing Ying.
+\newblock Sweeping preconditioner for the {H}elmholtz equation: moving
+  perfectly matched layers.
+\newblock {\em Multiscale Modeling \& Simulation}, 9(2):686--710, 2011.
+
+\bibitem{ernst2012difficult}
+Oliver~G. Ernst and Martin~J. Gander.
+\newblock Why it is difficult to solve {H}elmholtz problems with classical
+  iterative methods.
+\newblock {\em Numerical Analysis of Multiscale Problems}, pages 325--363,
+  2012.
+
+\bibitem{farhat2005feti}
+Charbel Farhat, Philip Avery, Radek Tezaur, and Jing Li.
+\newblock {FETI-DPH}: a dual-primal domain decomposition method for acoustic
+  scattering.
+\newblock {\em Journal of Computational Acoustics}, 13(03):499--524, 2005.
+
+\bibitem{farhat1999feti}
+Charbel Farhat, Antonini Macedo, and Radek Tezaur.
+\newblock {FETI-H}: A scalable domain decomposition method for high frequency
+  exterior {H}elmholtz problems.
+\newblock In {\em Eleventh International Conference on Domain Decomposition
+  Method}, pages 231--241. Citeseer, 1999.
+
+\bibitem{gander2006optimized}
+Martin~J Gander.
+\newblock Optimized schwarz methods.
+\newblock {\em SIAM Journal on Numerical Analysis}, 44(2):699--731, 2006.
+
+\bibitem{gander2015optimized}
+Martin~J Gander and Olivier Dubois.
+\newblock Optimized schwarz methods for a diffusion problem with discontinuous
+  coefficient.
+\newblock {\em Numerical Algorithms}, 69(1):109--144, 2015.
+
+\bibitem{gander2007optimized}
+Martin~J. Gander, Laurence Halpern, and Fr{\'e}d{\'e}ric Magoules.
+\newblock An optimized {S}chwarz method with two-sided {R}obin transmission
+  conditions for the {H}elmholtz equation.
+\newblock {\em International Journal for Numerical Methods in Fluids},
+  55(2):163--175, 2007.
+
+\bibitem{gander2002optimized}
+Martin~J. Gander, Fr{\'e}d{\'e}ric Magoules, and Fr{\'e}d{\'e}ric Nataf.
+\newblock Optimized {S}chwarz methods without overlap for the {H}elmholtz
+  equation.
+\newblock {\em SIAM Journal on Scientific Computing}, 24(1):38--60, 2002.
+
+\bibitem{gander2017optimized}
+Martin~J. Gander and Yingxiang Xu.
+\newblock Optimized {S}chwarz methods with nonoverlapping circular domain
+  decomposition.
+\newblock {\em Mathematics of Computation}, 86(304):637--660, 2017.
+
+\bibitem{gander2013domain}
+Martin~J Gander and Hui Zhang.
+\newblock Domain decomposition methods for the {H}elmholtz equation: a
+  numerical investigation.
+\newblock In {\em Domain Decomposition Methods in Science and Engineering XX},
+  pages 215--222. Springer, 2013.
+
+\bibitem{gander2019class}
+Martin~J Gander and Hui Zhang.
+\newblock A class of iterative solvers for the {H}elmholtz equation:
+  {F}actorizations, sweeping preconditioners, source transfer, single layer
+  potentials, polarized traces, and optimized {S}chwarz methods.
+\newblock {\em Siam Review}, 61(1):3--76, 2019.
+
+\bibitem{harlow1965numerical}
+Francis~H. Harlow and J.~Eddie Welch.
+\newblock Numerical calculation of time-dependent viscous incompressible flow
+  of fluid with free surface.
+\newblock {\em The Physics of Fluids}, 8(12):2182--2189, 1965.
+
+\bibitem{he2008euler}
+Yinnian He.
+\newblock The {E}uler implicit/explicit scheme for the 2{D} time-dependent
+  {N}avier-{S}tokes equations with smooth or non-smooth initial data.
+\newblock {\em Mathematics of Computation}, 77(264):2097--2124, 2008.
+
+\bibitem{ihlenburg2006finite}
+Frank Ihlenburg.
+\newblock {\em Finite element analysis of acoustic scattering}, volume 132.
+\newblock Springer Science \& Business Media, 2006.
+
+\bibitem{karni1996hybrid}
+Smadar Karni.
+\newblock Hybrid multifluid algorithms.
+\newblock {\em SIAM Journal on Scientific Computing}, 17(5):1019--1039, 1996.
+
+\bibitem{kingma2014adam}
+Diederik~P Kingma and Jimmy Ba.
+\newblock Adam: A method for stochastic optimization.
+\newblock {\em arXiv preprint arXiv:1412.6980}, 2014.
+
+\bibitem{kiwiel2001convergence}
+Krzysztof~C. Kiwiel.
+\newblock Convergence and efficiency of subgradient methods for quasiconvex
+  minimization.
+\newblock {\em Mathematical Programming}, 90(1):1--25, 2001.
+
+\bibitem{landweber1944shape}
+L.~Landweber and Murray~H. Protter.
+\newblock The shape and tension of a light, flexible cable in a uniform
+  current.
+\newblock Technical report, DAVID TAYLOR MODEL BASIN WASHINGTON DC, 1944.
+
+\bibitem{layton2012approximate}
+William~J. Layton and Leo~G. Rebholz.
+\newblock {\em Approximate deconvolution models of turbulence: analysis,
+  phenomenology and numerical analysis}, volume 2042.
+\newblock Springer Science \& Business Media, 2012.
+
+\bibitem{lecun2012efficient}
+Yann~A. LeCun, L{\'e}on Bottou, Genevieve~B. Orr, and Klaus-Robert M{\"u}ller.
+\newblock Efficient backprop.
+\newblock In {\em Neural networks: Tricks of the trade}, pages 9--48. Springer,
+  2012.
+
+\bibitem{lions1990schwarz}
+P.L. Lions.
+\newblock On the {S}chwarz alternating method. {III}: a variant for
+  nonoverlapping subdomains.
+\newblock In {\em Third international symposium on domain decomposition methods
+  for partial differential equations}, volume~6, pages 202--223. SIAM
+  Philadelphia, PA, 1990.
+
+\bibitem{marion1998navier}
+Martine Marion and Roger Temam.
+\newblock {N}avier-{S}tokes equations: {T}heory and approximation.
+\newblock {\em Handbook of Numerical Analysis}, 6:503--689, 1998.
+
+\bibitem{melenk1995generalized}
+Jens~Markus Melenk.
+\newblock {\em On generalized finite element methods}.
+\newblock PhD thesis, research directed by Dept. of Mathematics.University of
+  Maryland at College Park, 1995.
+
+\bibitem{pinkus1999approximation}
+Allan Pinkus.
+\newblock Approximation theory of the {MLP} model in neural networks.
+\newblock {\em Acta numerica}, 8:143--195, 1999.
+
+\bibitem{raissi2019physics}
+Maziar Raissi, Paris Perdikaris, and George~E. Karniadakis.
+\newblock Physics-informed neural networks: A deep learning framework for
+  solving forward and inverse problems involving nonlinear partial differential
+  equations.
+\newblock {\em Journal of Computational Physics}, 378:686--707, 2019.
+
+\bibitem{rebollo2014mathematical}
+Tom{\'a}s~Chac{\'o}n Rebollo and Roger Lewandowski.
+\newblock {\em Mathematical and numerical foundations of turbulence models and
+  applications}.
+\newblock Springer, 2014.
+
+\bibitem{su2017almost}
+Jian Su and Yinnian He.
+\newblock The almost unconditional convergence of the {E}uler implicit/explicit
+  scheme for the three dimensional nonstationary {N}avier-{S}tokes equations.
+\newblock {\em Discrete \& Continuous Dynamical Systems-B}, 22(9):3421, 2017.
+
+\bibitem{toselli2006domain}
+Andrea Toselli and Olof Widlund.
+\newblock {\em Domain decomposition methods-algorithms and theory}, volume~34.
+\newblock Springer Science \& Business Media, 2006.
+
+\bibitem{wang2020neural}
+Ziming Wang, Tao Cui, and Xueshuang Xiang.
+\newblock A neural network with plane wave activation for {H}elmholtz equation.
+\newblock {\em arXiv preprint arXiv:2012.13870}, 2020.
+
+\bibitem{xu2018influence}
+Yingxiang Xu.
+\newblock The influence of domain truncation on the performance of optimized
+  {S}chwarz methods.
+\newblock {\em Electronic Transactions on Numerical Analysis}, 49:182--209,
+  2018.
+
+\bibitem{yang2019adversarial}
+Yibo Yang and Paris Perdikaris.
+\newblock Adversarial uncertainty quantification in physics-informed neural
+  networks.
+\newblock {\em Journal of Computational Physics}, 394:136--152, 2019.
+
+\bibitem{zhang2018error}
+Yuhong Zhang, Yanren Hou, and Li~Shan.
+\newblock Error estimates of a decoupled algorithm for a fluid--fluid
+  interaction problem.
+\newblock {\em Journal of Computational and Applied Mathematics}, 333:266--291,
+  2018.
+
+\end{thebibliography}

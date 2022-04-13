@@ -1,0 +1,367 @@
+\def\CTeXPreproc{Created by ctex v0.2.4, don't edit!}\def\CTeXPreproc{Created by ctex v0.2.4, don't edit!}\def\CTeXPreproc{Created by ctex v0.2.4, don't edit!}\def\CTeXPreproc{Created by ctex v0.2.4, don't edit!}\def\CTeXPreproc{Created by ctex v0.2.9, don't edit!}
+\documentclass[a4paper,12pt,titlepage]{ctexbook}
+\ctexset{
+    chapter/format = \centering \zihao{3} \heiti,
+    section/format = \centering \zihao{3} \heiti,
+    subsection/format = \zihao{4} \heiti
+}
+\usepackage[left=3.5cm,right=2.5cm,top=3.5cm,bottom=3.75cm]{geometry}
+\geometry{papersize={21.00cm,29.70cm}}
+\usepackage{ctex}
+\usepackage{amsfonts}%{cctart}
+
+%%%	一些使用的包
+\usepackage[numbers]{natbib}
+\usepackage{subcaption} % Do NOT use \subfigure package
+\usepackage{epsfig}    % both for subfigure
+\usepackage{url}
+\usepackage{tabularx}
+\usepackage{amsmath}
+\usepackage{amsthm} % for begin{proof}
+\usepackage{amssymb}
+\usepackage{amscd}
+%%%%%%%%%%%%%%%%%格式设置
+\usepackage{titlesec}
+\titleformat{\chapter}
+{\centering\zihao{3} \bfseries}{第\chinese{chapter} 章}{20pt}{\zihao{3}}
+\titlespacing*{\chapter}{0pt}{0pt}{35pt}
+
+\newtheorem{theorem}{\hskip\parindent\bf 定理}[section]
+\newtheorem{example}{\hskip\parindent\bf 例}[section]
+\newtheorem{proposition}{\hskip\parindent\bf 性质}[section]
+\newtheorem{definition}{\hskip\parindent\bf 定义}[section]
+\newtheorem{remark}{\hskip\parindent\bf 注}[section]
+\newtheorem{lemma}{\hskip\parindent\bf 引理}[section]
+\newtheorem{algorithm}{\hskip\parindent\bf 算法}[section]
+%
+\font\bigbf=cmb10 scaled 1250 \font\Bigbf=cmb10 scaled 1700
+\baselineskip12pt
+\parindent 30pt
+\parskip 2pt
+
+%\newcounter{fo}
+%\newcounter{fofo}
+%\newcounter{fofofo}
+%
+%\setcounter{fo}{1}
+%\setcounter{fofo}{2}
+%\setcounter{fofofo}{3}
+
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}%清除原有设置
+\fancyhead[CE,CO]{\normalfont\heiti 东北师范大学博士学位论文}
+\fancyfoot[CE,CO]{\thepage}
+\fancypagestyle{plain}
+{%
+ \fancyhf{} % clear all header fields
+ \fancyhead[CE,CO]{\normalfont\heiti 东北师范大学博士学位论文}
+ \fancyfoot[CE,CO]{\thepage}
+}
+\renewcommand{\headrulewidth}{0.4pt}%在页眉下画一个0pt 宽的分隔线
+\renewcommand{\footrulewidth}{0pt} % 在页脚不画分隔线．
+
+
+%%% ========================================================
+\begin{document}
+
+%%%%%%%%%独立符号，不独立符号
+\vskip -1cm \baselineskip 0.3in \zihao{5} \vskip 0.5cm
+%%%%  封  页
+\thispagestyle{empty}%%%%无页码．
+\par
+%$$
+%\begin{array}{lcl}
+%&~&
+%%\hskip 7.0cm
+%\mbox{学校代码:}~{\underline {10200}}~~~~~~~~~~~~~~~~~~~~~~~
+%%~~~~~~~~~\vskip 0pt\hskip 7.0cm
+%\mbox{研究生学号:}~{\underline {2018200278}}\\
+%%\vskip 0pt
+%&~&
+%%\hskip 7.0cm
+%\mbox{分\: 类\: 号:}~{\underline {C8}}~~~~~~~~~~~~~~~~~~~~~~~~~
+%%~~~~~~~~~~\vskip 0pt\hskip 7.0cm
+%\mbox{\hspace*{0.3ex}~密~~~~~~~~~级:}~{\underline {\mbox{无}}}
+%\end{array}
+%$$
+
+\begin{center}
+\begin{tabular}{rlccrl}
+\mbox{学校代码}： 
+& {\underline {10200}}
+&~\qquad\qquad &~\qquad\qquad
+& \mbox{研究生学号}：
+& {\underline {~~~}} \\
+\mbox{分\: 类\: 号}：
+& {\underline {O24}}
+&~&~
+& \mbox{密\qquad\:\:\:\:\,级}：
+& {\underline {\mbox{公开}}}
+\end{tabular}
+\end{center}
+
+
+\vbox to 10truemm{}
+
+\begin{figure}[h]
+ \begin{center}
+\includegraphics[width=4.5cm,height=4.5cm]{./nenulogo.pdf}
+ \end{center}
+\end{figure}
+
+\vskip 0.6cm
+\begin{center}
+{\zihao{2}\songti\bf {你的论文题目}\\
+\vskip 0.15in \Large\bf Your english title } \vskip
+0.1in 作者：{\heiti  }
+\end{center}
+
+$$
+\begin{array}{l}
+\hbox{指导教师：{\heiti ~~~ }}\\
+%\hbox{指导教师：{\heiti }}\\
+\hbox{一级学科：{\heiti ~~ 数学}}\\
+\hbox{二级学科：{\heiti ~~ 计算数学}}\\
+\hbox{研究方向：{\heiti ~~ 偏微分方程数值解}}\\
+%\hbox{学位类型：{\heiti ~~ 博~~~~士 }}\\
+\end{array}
+$$
+
+\par
+\vbox to 2truemm{}
+\begin{center}
+{\zihao{4}\heiti 东北师范大学学位评定委员会}	
+\end{center}
+\begin{center}
+2022年3月
+\end{center}
+\newpage
+\thispagestyle{empty}%%%%无页码
+
+\newpage
+\thispagestyle{empty}
+\mbox{}
+
+\newpage
+%\baselineskip 21pt
+\begin{center}
+{\zihao{3}\heiti 独~~创~~性~~ 声~~明}
+\end{center}
+\par
+{{\zihao{-4}
+本人声明所呈交的学位论文是本人在导师指导下进行的研究工作及取得的研究成果．
+据我所知, 除了文中特别加以标注和致谢的地方外,
+论文中不包含其他人已经发表或撰写过的研究成果,
+也不包含为获得东北师范大学或其他教育机构的学位或证书而使用过的材料．与我一同工作的同志对
+本研究所做的任何贡献均已在论文中作了明确的说明并表示谢意．
+\\
+\par
+\par
+学位论文作者签名:\underline{~~~~~~~~~~~~~~~~~~~~}~~~~~~ 日期:\underline{~~~~~~~~~~~~~~~~~~~~}}}
+$$
+\begin{array}{c}
+\\[0.5cm]
+\end{array}
+$$
+\begin{center}
+{\zihao{3}\heiti 学位论文版权使用授权书}
+\end{center}
+\par
+{{\zihao{-4}本学位论文作者完全了解东北师范大学有关保留、使用学位论文的规定,
+即：东北师范大学有权保留并向国家有关部门或机构送交学位论文的复印件和磁盘,
+允许论文被查阅和借阅．本人授权东北师范大学可以将学位论文的全部或部分内容编入有关数据库进
+行检索, 可以采用影印、缩印或其它复制手段保存、汇编学位论文．
+\par
+(保密的学位论文在解密后适用本授权书)
+\par
+$$
+\begin{array}{ll}
+$ 学位论文作者签名:$\underline{~~~~~~~~~~~~~~~~}~~$ 指导教师签名:$\underline{~~~~~~~~~~~~~~~~}\\[3mm]
+$ 日期:$\underline{~~~~~~~~~~~~~~~~}~~$
+日~~~~~~~~~~~~~~~~期:$\underline{~~~~~~~~~~~~~~~~}
+\end{array}
+$$
+}}
+
+\vskip 0.5in {\zihao{-4} 学位论文作者毕业后去向：
+$$
+\begin{array}{ll}
+$ 工作单位:$\underline{~~~~~~~~~~~~~~~~}~~~~~~~~~~~~~~~~~~~~~~~~~
+$ 电话:$\underline{~~~~~~~~~~~~~~~~}\\[3mm]
+$ 通讯地址:$\underline{~~~~~~~~~~~~~~~~}~~~~~~~~~~~~~~~~~~~~~~~~~
+$邮编:$\underline{~~~~~~~~~~~~~~~~}
+\end{array}
+$$
+}
+
+
+
+\newpage
+\thispagestyle{empty}%%%%无页码
+\mbox{}
+
+
+\newpage
+\setcounter{page}{1}%%%%页码第一页
+\renewcommand{\thepage}{\Roman{page}}%%%页码用大写罗马数字
+\zihao{-4}
+\addcontentsline{toc}{chapter}{摘要$~~~.~~ .~~.~~.~~.~~
+.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~ .~~.~~.~~.~~
+.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~$}
+\begin{center}
+	{\zihao{3}\heiti 摘~~~~要}\label{cnabs}
+\end{center}
+\par
+\vskip 0.3in
+\par
+
+你的中文摘要
+
+\vskip 0.1in
+\par
+{\heiti\bf 关键词:}~~~~中文；关键词．  
+
+\newpage
+\addcontentsline{toc}{chapter}{英文摘要$~~~.~~ .~~.~~.~~.~~
+.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~ .~~.~~.~~.~~
+.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~$}
+%\noindent\addcontentsline{toc}{chapter}{英文摘要$~\dotfill~$}
+\baselineskip 21pt
+\begin{center}
+{\large\bf Abstract}\label{enabs}
+\end{center}
+\par
+\vskip 0.3in
+
+Your Abstract
+
+\vskip 0.25in
+\par
+{\heiti\bf Key words:}~~Your English；Key words.
+%\newpage
+%\markboth{}{}
+%\mbox{}
+
+\tableofcontents
+
+\newpage
+\markboth{}{}
+\mbox{}
+\newpage
+
+%%%%%%%%%%%%%%%%%% 正文 %%%%%%%%%%%%%%%%%
+\setcounter{page}{1}
+\renewcommand{\thepage}{\arabic{page}}
+\newpage \par 
+\newpage \baselineskip 21pt \pagenumbering{arabic}
+
+
+
+\chapter{绪论}
+
+\section{研究背景与意义}
+
+参考文献测试\cite{mathew2008domain}。
+
+定理测试
+\begin{theorem}
+	这是定理内容
+	\begin{proof}
+		这是定理证明
+	\end{proof}
+\end{theorem}
+
+
+
+\section{模型介绍}\label{sec:model}
+
+\subsection{模型}\label{sec:model1}
+
+\chapter{结论}\label{ch:conclusion}
+
+\hspace{2em}本论文主要研究
+
+
+
+
+
+
+\markboth{}{}
+\mbox{}
+\newpage
+%\pagestyle{plain}
+\addcontentsline{toc}{chapter}{参考文献$~~.~~.~~.~~.~~.~~
+.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~ .~~.~~.~~.~~
+.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~$} \label{reference}
+
+
+%\nocite{*}
+%\bibliographystyle{gbt-7714-2015-author-year}
+%\bibliographystyle{gbt-7714-2015-numerical} % 可以查看是否缺少项目
+\bibliographystyle{gbt7714-numerical} % 忽略缺少的项目
+\bibliography{ref_backup}
+
+
+\markboth{}{}
+\mbox{}
+\newpage
+
+\addcontentsline{toc}{chapter}{致谢$~~~.~~.~~.~~.~~.~~
+.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~ .~~.~~.~~.~~
+.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~$}
+\baselineskip 19.5pt
+\begin{center}
+	{\zihao{3} \heiti 致~~谢} \label{thanks}
+\end{center}
+\vskip 0.3in
+
+\quad\quad
+
+\medskip
+%时光飞逝，一六年初入东师校园，至今已有五年半载．伴随着时间的流逝，从一名迷茫的本科毕业生，成长为一个有研究历练的博士生，期间饱含师长教育之恩，同窗之义，是以情造文，铭而致谢．
+%
+%\hskip 3.85in ~~~~
+%
+%\hskip 3.85in 2021 年~9 月
+
+\newpage
+\addcontentsline{toc}{chapter}{在学期间公开发表论文及著作情况$~~~
+.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.~~.$}
+
+\markboth{}{} \small 
+{\small
+\begin{center}
+{\zihao{3} \heiti 在学期间公开发表论文及著作情况}
+	\label{publication}
+\\
+\vskip 0.25in
+\begin{tabularx}{450pt}{|X|X|c|c|c|c}
+\hline 
+{\zihao{5} \songti\heiti ~文章名称~} 
+& {\zihao{5} \songti\heiti ~发表刊物（出版社）~} 
+& {\zihao{5} \songti\heiti ~刊发时间~} 
+& {\zihao{5} \songti\heiti ~刊物级别~}
+& {\zihao{5} \songti\heiti ~第几作者~}  \\
+\hline
+
+&	Science
+&	%2021年166卷
+&	SCI
+&	1	\\
+\hline
+\end{tabularx}
+\vskip 3mm
+\end{center}
+}
+
+\vskip 0.2in {\parindent=0pt
+\def\toto#1#2{\centerline{\hbox to 0.8 true cm{#1\hss}
+\parbox[t]{11.5 true cm}{#2}}\vspace{2mm}}
+
+
+\vskip 0.3in\par
+
+
+\end{document}

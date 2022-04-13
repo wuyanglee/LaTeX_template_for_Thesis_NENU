@@ -1,0 +1,50 @@
+\contentsline {chapter}{摘要$\nobreakspace {}\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {} .\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {} .\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {} .\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {} .\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}$}{I}%
+\contentsline {chapter}{英文摘要$\nobreakspace {}\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {} .\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {} .\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {} .\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {} .\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}$}{II}%
+\contentsline {chapter}{\numberline {第一章\hspace {.3em}}绪论和基本知识}{1}%
+\contentsline {chapter}{\numberline {第二章\hspace {.3em}}模型和方法介绍}{3}%
+\contentsline {section}{\numberline {2.1}两相流耦合模型}{3}%
+\contentsline {section}{\numberline {2.2}异性Helmholtz方程}{4}%
+\contentsline {section}{\numberline {2.3}区域分解方法介绍}{5}%
+\contentsline {section}{\numberline {2.4}深度学习方法介绍}{8}%
+\contentsline {section}{\numberline {2.5}深度区域分解方法介绍}{9}%
+\contentsline {chapter}{\numberline {第三章\hspace {.3em}}流体-流体耦合方程的交替Schwarz算法}{11}%
+\contentsline {section}{\numberline {3.1}模型问题}{11}%
+\contentsline {section}{\numberline {3.2}算法描述}{11}%
+\contentsline {section}{\numberline {3.3}算法收敛性分析}{12}%
+\contentsline {subsection}{\numberline {3.3.1}能量分析法}{12}%
+\contentsline {subsection}{\numberline {3.3.2}Fourier分析}{15}%
+\contentsline {section}{\numberline {3.4}数值实验}{20}%
+\contentsline {subsection}{\numberline {3.4.1}误差方程}{21}%
+\contentsline {subsection}{\numberline {3.4.2}具有真解的例子}{25}%
+\contentsline {section}{\numberline {3.5}本章小结}{26}%
+\contentsline {chapter}{\numberline {第四章\hspace {.3em}}流体-流体耦合方程的优化Schwarz算法}{29}%
+\contentsline {section}{\numberline {4.1}模型问题}{29}%
+\contentsline {section}{\numberline {4.2}算法描述}{29}%
+\contentsline {section}{\numberline {4.3}收敛性分析}{30}%
+\contentsline {section}{\numberline {4.4}优化参数求解}{34}%
+\contentsline {subsection}{\numberline {4.4.1}Robin型界面传输条件}{34}%
+\contentsline {subsection}{\numberline {4.4.2}双边Robin型界面传输条件}{38}%
+\contentsline {section}{\numberline {4.5}数值实验}{38}%
+\contentsline {section}{\numberline {4.6}本章小结}{38}%
+\contentsline {chapter}{\numberline {第五章\hspace {.3em}}异性Poisson方程的深度区域分解算法}{39}%
+\contentsline {section}{\numberline {5.1}模型问题}{39}%
+\contentsline {section}{\numberline {5.2}算法描述}{39}%
+\contentsline {section}{\numberline {5.3}收敛性分析}{45}%
+\contentsline {section}{\numberline {5.4}算法性能分析}{45}%
+\contentsline {section}{\numberline {5.5}数值试验}{45}%
+\contentsline {subsection}{\numberline {5.5.1}经典的Poisson方程}{46}%
+\contentsline {subsection}{\numberline {5.5.2}具有曲界面的异性Poisson方程}{52}%
+\contentsline {section}{\numberline {5.6}本章小结}{57}%
+\contentsline {chapter}{\numberline {第六章\hspace {.3em}}异性Helmholtz方程的深度区域分解算法}{59}%
+\contentsline {section}{\numberline {6.1}模型问题}{59}%
+\contentsline {section}{\numberline {6.2}算法描述}{59}%
+\contentsline {section}{\numberline {6.3}数值实验}{64}%
+\contentsline {subsection}{\numberline {6.3.1}实验设定}{64}%
+\contentsline {subsection}{\numberline {6.3.2}齐次Helmholtz方程}{65}%
+\contentsline {subsection}{\numberline {6.3.3}异性介质上的齐次Helmholtz方程}{69}%
+\contentsline {subsection}{\numberline {6.3.4}异性介质上的非齐次Helmholtz方程}{72}%
+\contentsline {section}{\numberline {6.4}本章小结}{76}%
+\contentsline {chapter}{\numberline {第七章\hspace {.3em}}结论}{79}%
+\contentsline {chapter}{参考文献$\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {} .\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {} .\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {} .\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {} .\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}$}{80}%
+\contentsline {chapter}{致谢$\nobreakspace {}\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {} .\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {} .\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {} .\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {} .\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}$}{88}%
+\contentsline {chapter}{在学期间公开发表论文及著作情况$\nobreakspace {}\nobreakspace {}\nobreakspace {} .\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {} .\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {} .\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.\nobreakspace {}\nobreakspace {}.$}{89}%
